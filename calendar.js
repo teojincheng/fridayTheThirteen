@@ -36,7 +36,8 @@ function getFridayThirteenth(daysInYear, numberOfMonths, arrOfDaysInMonth) {
   const monthsWithThirteen = determineMonthsWithThirteen(
     DATE_OF_FIRST_SUNDAY_IN_JAN
   );
-  return monthsWithThirteen;
+  let resultString = `${monthsWithThirteen.length} fridays the 13th`;
+  return resultString;
 }
 
 module.exports = getFridayThirteenth;
