@@ -19,3 +19,5 @@ Input
 Output: 2 Fridays the 13th.
 
 And the exact date of the fridays.
+
+Reference: https://stackoverflow.com/questions/20169947/how-can-i-find-how-many-times-friday-the-13th-appears-in-a-year
